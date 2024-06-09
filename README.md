@@ -23,15 +23,22 @@ Calculated the Attrition Rate by applying DAX queries and adding a new measure (
 Data Analysis:
 
 Developed a variety of visual representations, including bar charts, key performance indicators (KPIs), table charts, pie charts, and other relevant visualizations.
-These visual tools were used to derive insights and present data in a clear and accessible manner.
-# Key Insights
+These visual tools were used to derive insights and present data in a clear and accessible manner. 
+
+   KEY INSIGHTS
 
 > Total Employees: The organization has significantly expanded, now employing 1,470 individuals, demonstrating substantial growth and scale.
+> 
 > Attrition Analysis: A total of 237 employees have left the organization, with 150 males and 87 females, indicating a higher attrition rate among males.
+> 
 > Departmental Attrition: The Research and Development Department experienced the highest attrition rate at 56.13%, highlighting a need for improved employee retention strategies in this area.
+> 
 > Education Field Impact: Employees in the life sciences field had the highest attrition rate, suggesting the need to address retention challenges specific to this field.
+> 
 > Job Role Affected: The sales role exhibited the highest attrition rate, indicating the necessity for targeted retention efforts in this department to decrease turnover.
+> 
 > Education-wise Attrition: The attrition rate for employees with only a high school education is 18.24%, the highest among all education levels.
+> 
 > Attrition Rate by Gender and Age Group: The highest attrition count is among the 25-34 age group, with 112 employees leaving, which is the maximum among all age groups.
 
 
