@@ -1,5 +1,5 @@
 # HR-Analytics-Power-BI-
-Objective
+
 The goal of this project is to pinpoint the primary factors contributing to employee attrition and provide actionable insights to enhance workforce retention within an organization. The dashboard created offers valuable insights into organizational attrition, aiding the HR team in their subsequent analyses.
 
 Throughout this project, I have had the opportunity to:
